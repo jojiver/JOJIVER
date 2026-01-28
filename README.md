@@ -13,17 +13,27 @@
 ---
 
 ## 📄 About me
-
+A passionate frontend developer focused on building clean, responsive beginner projects using HTML, CSS, and JavaScript.
+       
 
 
 
 ---
 
 ## ⚡ Tech Arsenal
-
+      ☕ Java
+      🌐 HTML
+      🎨 CSS
 
 
 ---
+
+## 🧠 Currently Learning 
+      🎯 Tailwind CSS 
+      ⚛️  React JS
+      🗃️ MySQL
+      🍃 MongoDB
+      📖 OOP
 
 ## 📈 GitHub Journey
 
@@ -45,14 +55,7 @@
 
 ---
 
-## 🎯 Current Focus
 
-- 🔭 Building scalable web applications with *Next.js* and *TypeScript*
-- 🌱 Exploring *serverless architectures* and *cloud technologies*
-- 👯 Open to collaborating on *open-source projects*
-- 💬 Ask me about *React*, *Node.js*, or *web performance optimization*
-
----
 
 
 
