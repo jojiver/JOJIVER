@@ -4,7 +4,7 @@
 
 ### Student | Game Addict | Tech Enthusiast
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/ea/d5/41/ead541982d28e6f89edd38dbe1a9d107.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/1c/0f/d6/1c0fd62e79209c2013c32bc403387688.gif">
 
 
 
