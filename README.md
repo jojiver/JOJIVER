@@ -1,11 +1,11 @@
-<div align="center">
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/f4/fb/eb/f4fbeb62d8c15019abe4daee679e21a7.gif">
 <div align="center">
 
 # 💻 Joniver J. Sumalinog
 
 ### Student | Game Addict | Tech Enthusiast
+
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/f4/fb/eb/f4fbeb62d8c15019abe4daee679e21a7.gif">
 
 
 </div>
