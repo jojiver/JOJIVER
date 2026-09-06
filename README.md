@@ -5,7 +5,7 @@
 
 ### Student | Game Addict | Tech Enthusiast
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://giphy.com/explore/demon-slayer">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdlZ244bWFpNzAyZXNjcW1mN2tsMmxvMG5qOG55bTlyNjhlYjloYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif">
 
 
 </div>
