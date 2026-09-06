@@ -5,7 +5,7 @@
 
 ### Student | Game Addict | Tech Enthusiast
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/94/c2/3a/94c23a88270c1ddca128d97da12ddb6c.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://gifs.alphacoders.com/gifs/view/223101">
 
 
 </div>
