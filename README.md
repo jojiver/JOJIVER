@@ -1,62 +1,67 @@
-
 <div align="center">
 
-# 💻 Joniver J. Sumalinog
+# Joniver J. Sumalinog
 
-### Student | Game Addict | Tech Enthusiast
+**Student · Frontend Developer · Tech Enthusiast**
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdlZ244bWFpNzAyZXNjcW1mN2tsMmxvMG5qOG55bTlyNjhlYjloYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9w9Z2ZOxcbs1a/giphy.gif">
+Building clean, responsive web experiences while growing into full-stack development.
 
+[![GitHub](https://img.shields.io/badge/GitHub-jojiver-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jojiver)
+![Profile Views](https://komarev.com/ghpvc/?username=jojiver&style=flat-square&color=0e7490)
 
 </div>
 
 ---
 
-## 📄 About me
-A passionate frontend developer focused on building clean, responsive beginner projects using HTML, CSS, and JavaScript.
-       
+## About Me
 
+I am a student developer focused on frontend development. I enjoy turning ideas into clean, responsive interfaces and continuously improving my fundamentals in programming, databases, and modern JavaScript tooling.
 
-
----
-
-## ⚡ Tech Arsenal
-      ☕ Java
-      🌐 HTML
-      🎨 CSS
-
+- Focused on: responsive UI, clean code, and practical projects
+- Currently building: academic and productivity web applications
+- Open to: collaboration, student projects, and learning opportunities
 
 ---
 
-## 🧠 Currently Learning 
-      🎯 Tailwind CSS 
-      ⚛️  React JS
-      🗃️ MySQL
-      🍃 MongoDB
-      📖 OOP
+## Tech Stack
 
-## 📈 GitHub Journey
+**Languages & Fundamentals**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Currently Learning**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Concepts**
+
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-334155?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-334155?style=for-the-badge)
+
+---
+
+## GitHub Overview
 
 <div align="center">
 
-### 📊 Performance Metrics
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jojiver&rank_icon=github&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jojiver&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojiver&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165" />
 
-### 🔥 Consistency Track
-<img src="https://streak-stats.demolab.com?user=jojiver&theme=gotham&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=jojiver&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
-### 📅 Contribution Timeline
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jojiver&theme=gotham&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-### 💻 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojiver&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jojiver&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
+<div align="center">
 
-
-
+*Always learning. Always improving.*
 
 </div>
