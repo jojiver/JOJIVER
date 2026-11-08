@@ -2,9 +2,9 @@
 
 # Joniver J. Sumalinog
 
-**Student · Frontend Developer · Tech Enthusiast**
+**Student · Frontend Developer · Full-Stack in Progress**
 
-Building clean, responsive web experiences while growing into full-stack development.
+Building clean, responsive web experiences while learning backend and database fundamentals.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jojiver-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jojiver)
 ![Profile Views](https://komarev.com/ghpvc/?username=jojiver&style=flat-square&color=0e7490)
@@ -25,7 +25,7 @@ I am a student developer focused on frontend development. I enjoy turning ideas 
 
 ## Tech Stack
 
-**Languages & Fundamentals**
+**Languages & Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,8 +35,12 @@ I am a student developer focused on frontend development. I enjoy turning ideas 
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Database**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 
 **Concepts**
 
